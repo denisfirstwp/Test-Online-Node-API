@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 8877
 
 app.get('/', (req,res)=>{
   res.json({
-    msg:'OK'
+    msg:'FORRO DO BOM'
   })
 })
 
